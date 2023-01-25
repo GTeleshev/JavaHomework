@@ -1,0 +1,16 @@
+Jan 25, 2023 3:37:53 PM Seminar2.Problem4 main
+INFO: Запуск программы (Семинар 2, задача 4, калькулятор с логированием)
+Jan 25, 2023 3:37:59 PM Seminar2.Problem4 main
+INFO: Первое число: 12.0
+Jan 25, 2023 3:38:00 PM Seminar2.Problem4 main
+INFO: Второе число: 36.0
+Jan 25, 2023 3:38:02 PM Seminar2.Problem4 main
+INFO: Операция: /
+Jan 25, 2023 3:38:02 PM Seminar2.Problem4 main
+INFO: Результат: 0.3333333333333333
+Jan 25, 2023 3:38:05 PM Seminar2.Problem4 main
+INFO: Первое число: 45.0
+Jan 25, 2023 3:38:07 PM Seminar2.Problem4 main
+INFO: Второе число: 67.0
+Jan 25, 2023 3:38:10 PM Seminar2.Problem4 InputOp
+INFO: stop
