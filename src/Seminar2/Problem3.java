@@ -4,6 +4,7 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
+import org.json.*;
 
 public class Problem3 {
 //    3. ** Дана json строка (можно сохранить в файл и читать из файла)
